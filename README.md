@@ -1,11 +1,3 @@
----
-title: "Google Cloud Run Service to Service Authentication Using Go"
-date: 2023-06-21T13:34:16+03:00
-publishDate: 2023-06-21T13:34:16+03:00
-draft: false
-tags: ["GCP", "Cloud Run", "go", "docker"]
----
-
 In this tutorial, we will demonstrate how to set up service-to-service authentication for Google Cloud Run services using the Go programming language. 
 
 We will cover the following steps:
